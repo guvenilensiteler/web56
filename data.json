@@ -209,6 +209,18 @@
         "miktar": "₺500",
         "promo_code_yok": "Kat Kuralsız ve Ödüllü VIP Sistemi!",
         "slider_img": ""
+      },
+      {
+        "url": "https://t2m.io/yeahmurr",
+        "desc": [
+          "333 TL DENEME BONUSU"
+        ],
+        "site": "amgbahis",
+        "sort": null,
+        "color": "#0092ff",
+        "miktar": "₺333",
+        "promo_code_yok": "YENİ SİTE / RTP ORANI YÜKSEK",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -300,6 +312,10 @@
         "sites": [
           {
             "site": "mersobahis",
+            "sort": "0"
+          },
+          {
+            "site": "amgbahis",
             "sort": "1"
           },
           {

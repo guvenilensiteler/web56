@@ -334,21 +334,10 @@
             "site": "bankobet",
             "sort": "5"
           },
-          {
-            "site": "sezonbahis",
-            "sort": "6"
-          },
+
           {
             "site": "esbet",
             "sort": "7"
-          },
-          {
-            "site": "interbahis",
-            "sort": "8"
-          },
-          {
-            "site": "gallerbahis",
-            "sort": "9"
           }
         ]
       },

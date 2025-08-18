@@ -221,6 +221,19 @@
         "miktar": "₺333",
         "promo_code_yok": "YENİ SİTE / RTP ORANI YÜKSEK",
         "slider_img": ""
+      },
+      {
+        "url": "https://shortfive.online/yeahmur",
+        "desc": [
+          "ÜYE OL 500₺ DENEME BONUSU AL"
+        ],
+        "site": "grandpashabet",
+        "sort": null,
+        "color": "#efb521",
+        "miktar": "₺500",
+        "promo_code": null,
+        "promo_code_yok": "HOŞ GELDİN BONUSU 10,000,000 TL ÇEKİM İMKANI",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -334,7 +347,10 @@
             "site": "bankobet",
             "sort": "5"
           },
-
+          {
+            "site": "grandpashabet",
+            "sort": "6"
+          },
           {
             "site": "esbet",
             "sort": "7"

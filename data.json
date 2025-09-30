@@ -246,6 +246,18 @@
         "miktar": "₺1.000",
         "promo_code_yok": "ilk yatırıma özel %100 10.000TL yatırım veya kayıp bonusu",
         "slider_img": ""
+      },
+      {
+        "url": "https://chub.nakjdjsd.com/tr/?partner=p121044p121858p84ae#registration",
+        "desc": [
+          "%375 HOŞ GELDİN BONUSU!"
+        ],
+        "site": "casinomhub",
+        "sort": null,
+        "color": "#e4672d",
+        "miktar": "+225 FS",
+        "promo_code_yok": "40.000 TL HOŞ GELDİN BONUSU - TIKLA VERELİM!",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -353,8 +365,12 @@
             "sort": "8"
           },
           {
-            "site": "esbet",
+            "site": "casinomhub",
             "sort": "9"
+          },
+          {
+            "site": "esbet",
+            "sort": "10"
           }
         ]
       },

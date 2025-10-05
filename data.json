@@ -258,6 +258,18 @@
         "miktar": "+225 FS",
         "promo_code_yok": "40.000 TL HOŞ GELDİN BONUSU - TIKLA VERELİM!",
         "slider_img": ""
+      },
+      {
+        "url": "https://cutt.ly/Qr0To7R1",
+        "desc": [
+          "YATIRIMSIZ DENEME BONUSU"
+        ],
+        "site": "starzbet",
+        "sort": null,
+        "color": "#ff6d00",
+        "miktar": "₺750",
+        "promo_code_yok": "",
+        "slider_img": "30.000 TL  %100 HOŞGELDİN BONUSU | SINIRSIZ ÇEKİM"
       }
     ],
     "social": {
@@ -356,24 +368,28 @@
             "sort": "2"
           },
           {
-            "site": "ganobet",
+            "site": "starzbet",
             "sort": "3"
           },
           {
-            "site": "grandpashabet",
+            "site": "ganobet",
             "sort": "4"
           },
           {
-            "site": "casinomhub",
+            "site": "grandpashabet",
             "sort": "5"
           },
           {
-            "site": "vaycasino",
+            "site": "casinomhub",
             "sort": "6"
           },
           {
-            "site": "sheratonbet",
+            "site": "vaycasino",
             "sort": "7"
+          },
+          {
+            "site": "sheratonbet",
+            "sort": "8"
           }
         ]
       },

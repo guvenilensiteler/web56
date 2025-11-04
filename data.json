@@ -270,6 +270,30 @@
         "miktar": "₺750",
         "promo_code_yok": "30.000 TL  %100 HOŞGELDİN BONUSU | SINIRSIZ ÇEKİM",
         "slider_img": ""
+      },
+      {
+        "url": "https://t2m.io/CarkBet",
+        "desc": [
+          "500 TL DENEME BONUSU"
+        ],
+        "site": "carkbet",
+        "sort": null,
+        "color": "#ffc100",
+        "miktar": "₺500",
+        "promo_code_yok": "BELGESİZ 10 MİLYON TL ÇEKİM",
+        "slider_img": ""
+      },
+      {
+        "url": "https://t2m.io/kOTWHrM",
+        "desc": [
+          "200 DOLAR HEDIYE !"
+        ],
+        "site": "betvslot",
+        "sort": null,
+        "color": "#69c5a9",
+        "miktar": "$200",
+        "promo_code_yok": "GLOBAL MARKA",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -390,6 +414,14 @@
           {
             "site": "sheratonbet",
             "sort": "8"
+          },
+          {
+            "site": "carkbet",
+            "sort": "9"
+          },
+          {
+            "site": "betvslot",
+            "sort": "10"
           }
         ]
       },

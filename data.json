@@ -294,6 +294,18 @@
         "miktar": "$200",
         "promo_code_yok": "GLOBAL MARKA",
         "slider_img": ""
+      },
+      {
+        "url": "https://turbokisalink.com/yeahmur",
+        "desc": [
+          "444 FREESPIN DENEME BONUSU!"
+        ],
+        "site": "turbobahis",
+        "sort": null,
+        "color": "#fec000",
+        "miktar": "444 FS",
+        "promo_code_yok": "İLK YATIRIMA %50 DISCOUNT BONUSU ERTESİ GÜN FREESPIN!",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -422,6 +434,10 @@
           {
             "site": "betvslot",
             "sort": "10"
+          },
+          {
+            "site": "turbobahis",
+            "sort": "11"
           }
         ]
       },

@@ -76,7 +76,7 @@
         "slider_img": ""
       },
       {
-        "url": "https://t2m.io/yeahmur",
+        "url": "https://t2m.io/yeahmursp1",
         "desc": [
           "2.000₺ Deneme Bonusu Sınırsız Çekim"
         ],
@@ -432,6 +432,10 @@
         "sort": "3",
         "sites": [
           {
+            "site": "mersobahis",
+            "sort": "0"
+          },
+          {
             "site": "huqqabet",
             "sort": "1"
           },
@@ -439,10 +443,7 @@
             "site": "amgbahis",
             "sort": "2"
           },
-          {
-            "site": "mersobahis",
-            "sort": "3"
-          },
+
           {
             "site": "betturkey",
             "sort": "4"
